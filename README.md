@@ -28,6 +28,7 @@ Ainda tenho muito o que estudar e evoluir na minha stack, mas meu foco é sempre
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicwndr&theme=dracula&hide_border=false&layout=compact) -->
 
 # 🌐 Contato
+Envie um e-mail para: **vicwndr.dev@gmail.com**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicwndr.dev@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/building) -->
